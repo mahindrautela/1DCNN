@@ -7,7 +7,7 @@
 ### **Ultrasonic Guided Waves Based Identification of Elastic Properties Using 1D-Convolutional Neural Networks.**
 -------------------------------------------------------------------------------------------------------------------
 #### The dataset is also available at:
-### *https://sites.google.com/site/mahindrautela/datasets_and_codes?authuser=0*
+#### *https://sites.google.com/site/mahindrautela/datasets_and_codes?authuser=0*
 
 #### - This code can be run on a jupyter notebook either on a google colab platform (Recommended) or a personal computer with jupyter. 
 
@@ -21,4 +21,4 @@
 
 #### - For more information, you can write to me at my email id given in the paper.
 
-#### - Please cite the paper if you are using the code, datasets for your paper.
+#### - Please cite the paper if you are using the code or datasets for your research paper.
