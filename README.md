@@ -13,8 +13,10 @@
 
 #### - To run the code on a personal jupyter platform, you need to add some lines of code to convert tensorflow 1.x to 2.x if current system is using tensorflow 2.x
 
-#### - Each line of code is provided with the heading.
+#### - Each line of code is provided with the heading and neccessary descriptions.
 
-#### - To access the code on google colab, you need to put the dataset in the google drive and "mount drive" and the address of the folder will help to import the dataset.
+#### - To access the code on google colab, you need to put the dataset in the google drive 
+
+#### - "mount drive" and the address of the google drive folder will help to import the dataset in the code.
 
 #### - For more information, you can write to me at my email id given in the paper
