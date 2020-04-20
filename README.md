@@ -9,7 +9,7 @@
 #### The dataset is also available at:
 #### *https://sites.google.com/site/mahindrautela/datasets_and_codes?authuser=0*
 
-####  Please cite the paper if you are using the code or datasets for your research paper.
+####  Please cite the paper if you are using the code, datasets or paper for your research paper.
 -------------------------------------------------------------------------------------------------------------------
 ### Details:
 
