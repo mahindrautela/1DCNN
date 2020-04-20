@@ -8,3 +8,4 @@ Ultrasonic Guided Waves Based Identification of Elastic
 Properties Using 1D-Convolutional Neural Networks.
 ---------------------------------------------------------
 The dataset is also available at:
+https://sites.google.com/site/mahindrautela/datasets_and_codes?authuser=0
