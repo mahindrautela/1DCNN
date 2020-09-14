@@ -5,12 +5,16 @@
 #### This code is a part of the work presented in the paper:
 
 ### **Ultrasonic Guided Waves Based Identification of Elastic Properties Using 1D-Convolutional Neural Networks.**
--------------------------------------------------------------------------------------------------------------------
-#### The dataset is also available at:
-#### *https://sites.google.com/site/mahindrautela/datasets_and_codes?authuser=0*
-#### The dataset will be available on this link after the paper publication.
+
+### The paper is available at **https://ieeexplore.ieee.org/document/9187057/**
+
+### If IEEE Xplore is not accessible freely, the preprint of the paper is available at
+
+### **https://www.researchgate.net/publication/344228571_Ultrasonic_Guided_Waves_Based_Identification_of_Elastic_Properties_Using_1D-Convolutional_Neural_Networks** 
 
 ####  Please cite the paper if you are using the code, datasets or paper for your research paper.
+-------------------------------------------------------------------------------------------------------------------
+#### The dataset can also be asked from the authors of the paper by directly emailing them.
 -------------------------------------------------------------------------------------------------------------------
 ### Details:
 
