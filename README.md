@@ -28,4 +28,4 @@
 
 #### - "mount drive" and the address of the google drive folder will help to import the dataset in the code.
 
-#### - For more information, you can write to me at my email id given in the paper.
+### - For more information, you can write to us at mahindrautela@gmail.com 
