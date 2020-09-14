@@ -13,10 +13,10 @@
 ### **https://www.researchgate.net/publication/344228571_Ultrasonic_Guided_Waves_Based_Identification_of_Elastic_Properties_Using_1D-Convolutional_Neural_Networks** 
 
 ####  Please cite the paper if you are using the code, datasets or paper for your research paper.
--------------------------------------------------------------------------------------------------------------------
-#### The dataset can also be asked from the authors of the paper by directly emailing them.
--------------------------------------------------------------------------------------------------------------------
-### Details:
+
+####  For a demo dataset or a more detailed explaination of the code, write to us at mahindrautela@gmail.com 
+
+### Few Important details about the code:
 
 #### - This code can be run on a jupyter notebook either on a google colab platform (Recommended) or a personal computer with jupyter. 
 
